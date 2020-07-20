@@ -1,0 +1,10 @@
+*.ko
+*.o
+*.order
+*.a
+*.symvers
+*.mod
+GPIOEmu/
+*.cmd
+*.mod.c
+
